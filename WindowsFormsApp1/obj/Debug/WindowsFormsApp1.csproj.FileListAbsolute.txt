@@ -12,3 +12,17 @@ C:\Users\Saya\app_kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsForms
 C:\Users\Saya\app_kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formProduk.resources
 C:\Users\Saya\app_kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formPenjualan.resources
 C:\Users\Saya\app_kasir\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formPembelian.resources
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formHome.resources
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formPembelian.resources
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formPenjualan.resources
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.formProduk.resources
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SyifaLKSKabupaten\SyifaIsnanLKSKabupaten\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -62,6 +62,8 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(825, 150);
             this.dataGridView1.TabIndex = 23;
+            this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // textBox1
             // 
@@ -81,6 +83,7 @@
             this.label1.Size = new System.Drawing.Size(136, 35);
             this.label1.TabIndex = 25;
             this.label1.Text = "TOTAL = ";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // panel1
             // 
@@ -90,6 +93,7 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(401, 80);
             this.panel1.TabIndex = 26;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // textBox2
             // 
@@ -97,6 +101,7 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(300, 20);
             this.textBox2.TabIndex = 27;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // textBox3
             // 
